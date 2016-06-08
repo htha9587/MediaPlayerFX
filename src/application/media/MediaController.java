@@ -18,7 +18,7 @@ import javafx.stage.FileChooser;
 import javafx.stage.FileChooser.ExtensionFilter;
 
 /**
- * Version 0.1
+ * Version 0.3
  * @author htha9587
  * 6-7-16
  */
@@ -159,3 +159,4 @@ public class MediaController implements Initializable
 	
 	
 }
+

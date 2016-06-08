@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="MediaPlayerFX.jnlp">
+  <information>
+    <title>MediaPlayerFX</title>
+    <vendor>htha9587</vendor>
+    <description>MediaPlayerFX</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="MediaPlayerFX.jar" size="19748" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="application.media.MediaMain"  name="MediaPlayerFX" />
+  <update check="background"/>
+</jnlp>

@@ -9,7 +9,7 @@ import javafx.scene.Scene;
 
 
 /**
- * Version 0.1
+ * Version 0.3
  * @author htha9587
  * 6-7-16
  */
